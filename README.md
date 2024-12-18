@@ -1,4 +1,4 @@
-# Plutoid App
+# Plutoid App Documentation
 
 ## Privacy Policy for Plutoid
 
@@ -112,4 +112,34 @@ If you have any questions or concerns about this Privacy Policy or our data prac
 
 ---
 
-By using Plutoid, you agree to the terms of this Privacy Policy.
+## Safety Standards for Plutoid
+
+### Commitment to Child Safety
+
+Plutoid is committed to creating a safe environment for all users, especially minors. We implement strict measures to prevent Child Sexual Abuse and Exploitation (CSAE) and comply with global child safety laws.
+
+### Features and Policies
+
+- **User Reporting System**: Users can report any inappropriate content or behavior directly within the app. Reports are reviewed promptly by our moderation team.
+
+- **Content Moderation**: All user-generated content is monitored using automated tools and human review to detect and remove harmful or exploitative material.
+
+- **Age Verification**: We use age verification mechanisms to restrict access to age-appropriate content and prevent underage users from creating accounts without proper consent.
+
+- **Parental Controls**: Parents can request account deletion or access restriction for minors by contacting our support team.
+
+- **Educational Resources**: Plutoid provides resources on online safety and encourages users to report abuse to relevant authorities.
+
+### Contact Information
+
+- **Safety Standards URL**: [Plutoid Safety Standards](https://plutoid.com/safety-standards)
+- **Designated Contact**: For inquiries about CSAE prevention practices, contact **plutoidapp@gmail.com**.
+
+### Reporting and Compliance
+
+- Plutoid complies with local and international child safety laws and reports violations to national and regional authorities.
+
+---
+
+By using Plutoid, you agree to adhere to these standards and help us maintain a safe and respectful community.
+
