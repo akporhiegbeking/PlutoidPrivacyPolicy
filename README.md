@@ -1,145 +1,123 @@
-# Plutoid App Documentation
+## Privacy Policy
 
-## Privacy Policy for Plutoid
+**Effective Date:** June 2, 2025
 
-Welcome to Plutoid! We are committed to protecting your privacy and complying with applicable data protection laws. This Privacy Policy outlines how we collect, use, and protect your information in accordance with the laws of Nigeria.
+Plutoid ("we", "our", or "us") respects your privacy and is committed to protecting your personal data in compliance with:
+
+- Nigeria Data Protection Regulation (NDPR)  
+- Nigeria Data Protection Commission (NDPC) Guidelines  
+- Federal Competition and Consumer Protection Commission (FCCPC) Standards  
+- **General Data Protection Regulation (GDPR)** – European Union  
+- **California Consumer Privacy Act (CCPA)** and related **US data privacy laws**  
+- **Children’s Online Privacy Protection Act (COPPA)** – United States
 
 ---
 
 ### 1. Information We Collect
 
 #### 1.1 Personal Information
+We collect the following data when you create an account:
+- Full name  
+- Email address  
+- Phone number  
+- Date of birth  
+- Gender  
+- Country  
+- User ID  
+- Optional: profile photo, bio, and location
 
-When you use Plutoid, we collect the following types of information:
+#### 1.2 Professional Information (For professional accounts)
+- Professional category  
+- Business address  
+- Contact information
 
-- **Personal Information**: When you create an account, you must provide us with your name, email address, user IDs, phone number, date of birth, gender, and country. You may also choose to provide additional information, such as a profile picture, bio, and location, which will be visible to others.
-  
-- **Payment Information**: If you use any paid services on Plutoid, you will need to provide payment details, including credit or debit card numbers, billing address, and other payment-related information.
+#### 1.3 Preferences
+- Language  
+- Notification settings  
+- Customization preferences
 
-- **Preferences**: We collect information about your preferences when you set them in your account settings, including language, notification settings, and other customization options.
-
-- **Professional Information**: If you create a professional account, you may need to provide additional details such as a professional category, business address, and contact information.
-
-#### 1.2 Information We Collect Automatically
-
-- **Usage Information**: We collect information about your interactions with the content on Plutoid, such as posts, comments, likes, shares, bookmarks, and the people you follow. This includes your interactions with other users' content and how you use our services.
-
-- **Device Information**: We collect information about the device you use to access Plutoid, including device ID, IP address, browser type, operating system, and device settings.
-
-- **Log Information**: We receive information when you view content on Plutoid or interact with our services, such as your IP address, browser type, pages visited, and search queries.
-
-- **Location Information**: Based on your settings, we may collect information about your approximate or precise location to provide location-based services and relevant content.
-
-#### 1.3 Information We Receive from Third Parties
-
-We may receive information about you from third-party services that you connect to Plutoid, such as single sign-on providers or social media platforms. This information may include your username, contact information, and profile details. Our advertising and analytics partners may provide us with information about your engagement with ads or other content.
-
----
-
-### 2. How We Use Your Information
-
-#### 2.1 Providing and Improving Services
-
-- **Service Provision**: We use your personal information to provide and operate the services offered by Plutoid, including account authentication, content delivery, and customer support.
-  
-- **Personalization**: We use your information to personalize your experience on Plutoid by showing you content, ads, and recommendations that are more relevant to you.
-
-- **Improvement and Development**: We analyze the information we collect to understand how users interact with Plutoid and to improve our services, develop new features, and enhance user experience.
-
-#### 2.2 Safety and Security
-
-We use the information to help ensure the safety and security of Plutoid, including fraud prevention, account verification, and monitoring for suspicious activity.
-
-#### 2.3 Communication
-
-We may use your contact information to communicate with you about your account, provide updates about our services, send promotional offers, and respond to your inquiries.
-
-#### 2.4 Research and Analysis
-
-We use information for research and analysis purposes to better understand our user base, improve our services, and develop new products and features.
+#### 1.4 Automatically Collected Data
+- Usage interactions (likes, comments, shares)  
+- Device ID, IP address, browser type, OS  
+- Log data and pages visited  
+- Location (based on your permissions)
 
 ---
 
-### 3. Sharing of Information
+### 2. How We Use Your Data
 
-We do not sell, rent, or trade your personal information to third parties. However, we may share your information in the following circumstances:
-
-#### 3.1 With Service Providers
-
-We may share your information with third-party service providers who assist us in operating Plutoid and providing services to you. This includes payment processors, hosting providers, analytics services, and customer support.
-
-#### 3.2 With Advertisers and Business Partners
-
-We may share aggregated or de-identified information with advertisers and business partners to help deliver targeted advertising and measure ad effectiveness.
-
-#### 3.3 Legal Compliance and Protection
-
-We may disclose your information if required by law or in response to valid legal requests. We may also disclose information to protect our rights, property, and safety, or the rights, property, and safety of our users and others.
-
-#### 3.4 With Your Consent
-
-We may share your information with third parties when you have given us your consent to do so.
+- **Service delivery**: To authenticate, personalize, and manage your Plutoid experience  
+- **Platform improvement**: To analyze usage and enhance features  
+- **Security**: To monitor suspicious activity and maintain community safety  
+- **Communication**: To send you essential service updates (no unsolicited promotions)
 
 ---
 
-### 4. Your Choices
+### 3. Data Sharing
 
-- **Access and Update**: You can access and update your personal information by logging into your Plutoid account.
+We do **not** sell or rent your personal data. Data may be shared only:
+- With **trusted service providers** under strict confidentiality  
+- To **comply with legal obligations** or law enforcement requests  
+- With **your explicit consent**
 
-- **Opt-Out**: You can opt out of receiving promotional emails from us by following the instructions provided in the email.
-
-- **Data Deletion**: You can request the deletion of your account and associated data by contacting us.
-
-- **Control Sharing**: You can control the sharing of your information with third parties through your account settings.
-
----
-
-### 5. Security
-
-We take the security of your information seriously and implement appropriate measures to protect it from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is completely secure, so we cannot guarantee absolute security.
+Under the **CCPA**, California users may request:
+- A list of categories of personal information disclosed  
+- Deletion or access to specific data collected  
+- Opt-out from the sale of personal data (Plutoid does not sell user data)
 
 ---
 
-### 6. Changes to this Privacy Policy
+### 4. Your Rights
 
-We may update this Privacy Policy from time to time to comply with changes in laws or to reflect updates to our services. If we make any material changes, we will notify you by email or by posting a notice on Plutoid.
+#### 4.1 Under NDPR / GDPR / CCPA
 
----
+You have the right to:
+- Access, correct, or delete your personal data  
+- Object to or restrict processing  
+- Withdraw consent  
+- Request data portability  
+- File a complaint with a supervisory authority (e.g., NDPC, EU DPA, or US State Authority)
 
-### 7. Contact Us
-
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at **plutoidapp@gmail.com**.
-
----
-
-## Safety Standards for Plutoid
-
-### Commitment to Child Safety
-
-Plutoid is committed to creating a safe environment for all users, especially minors. We implement strict measures to prevent Child Sexual Abuse and Exploitation (CSAE) and comply with global child safety laws.
-
-### Features and Policies
-
-- **User Reporting System**: Users can report any inappropriate content or behavior directly within the app. Reports are reviewed promptly by our moderation team.
-
-- **Content Moderation**: All user-generated content is monitored using automated tools and human review to detect and remove harmful or exploitative material.
-
-- **Age Verification**: We use age verification mechanisms to restrict access to age-appropriate content and prevent underage users from creating accounts without proper consent.
-
-- **Parental Controls**: Parents can request account deletion or access restriction for minors by contacting our support team.
-
-- **Educational Resources**: Plutoid provides resources on online safety and encourages users to report abuse to relevant authorities.
-
-### Contact Information
-
-- **Safety Standards URL**: [Plutoid Safety Standards](https://plutoid.com/safety-standards)
-- **Designated Contact**: For inquiries about CSAE prevention practices, contact **plutoidapp@gmail.com**.
-
-### Reporting and Compliance
-
-- Plutoid complies with local and international child safety laws and reports violations to national and regional authorities.
+To exercise any of these rights, email **plutoidapp@gmail.com**
 
 ---
 
-By using Plutoid, you agree to adhere to these standards and help us maintain a safe and respectful community.
+### 5. Data Security
 
+We implement strong administrative, technical, and physical safeguards (encryption, secure authentication, restricted access) to protect your personal information.
+
+While we strive to ensure maximum security, no system is completely immune. We advise all users to use strong passwords, keep software updated, and enable two-factor authentication (2FA) where available.
+
+---
+
+## 🧒 Child Safety Standards
+
+Plutoid is fully committed to protecting minors and aligns with global child protection standards:
+
+- **Age Restriction**: Children under 13 are not permitted to use Plutoid without parental consent (COPPA-compliant)  
+- **Moderation**: AI and human review of all user-generated content  
+- **User Reporting**: In-app reporting system for violations  
+- **Parental Control**: Guardians may request account actions for minors  
+- **CSAE Compliance**: Violations are reported to Nigerian and international child protection authorities as required
+
+CSAE & parental contact: **plutoidapp@gmail.com**
+
+---
+
+## 🔄 Policy Updates
+
+This policy may be updated periodically to reflect changes in law or platform functionality. Material changes will be communicated via in-app notifications or email. Continued use of Plutoid constitutes acceptance of the updated policy.
+
+---
+
+## 📬 Contact
+
+If you have any questions or concerns about this privacy policy or data practices, please contact:
+
+**Email**: plutoidapp@gmail.com  
+**EU Data Requests**: Indicate “GDPR Request” in the subject line  
+**US Residents (CCPA/COPPA)**: Indicate “US Privacy Request” in the subject line  
+
+---
+
+By using Plutoid, you agree to this Privacy Policy and help support a safe, transparent, and respectful digital community.
